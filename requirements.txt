@@ -1,0 +1,15 @@
+streamlit
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+transformers
+youtube-transcript-api
+python-dotenv
+pypdf
+python-docx
+trafilatura
+pandas
+numpy
+openpyxl
